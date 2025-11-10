@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Music",
+    "description": "Explore musical talents through guitar, piano, vocal, and more lessons.",
+    "image": "https://i.postimg.cc/music-category.png"
+  },
+  {
+    "id": 2,
+    "categoryName": "Programming",
+    "description": "Learn programming languages and frameworks like JavaScript, Python, and React.",
+    "image": "https://i.postimg.cc/programming-category.png"
+  },
+  {
+    "id": 3,
+    "categoryName": "Design",
+    "description": "Master design principles including UI/UX, logo design, and Adobe tools.",
+    "image": "https://i.postimg.cc/design-category.png"
+  },
+  {
+    "id": 4,
+    "categoryName": "Cooking",
+    "description": "Discover the art of cooking with international and modern recipes.",
+    "image": "https://i.postimg.cc/cooking-category.png"
+  }
+]
