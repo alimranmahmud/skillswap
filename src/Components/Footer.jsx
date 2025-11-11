@@ -29,7 +29,7 @@ const Footer = () => {
         <a className="link link-hover">Twitter</a>
         <a className="link link-hover">Instagram</a>
         <Link to="https://www.facebook.com" className="link link-hover">Facebook</Link>
-        <a className="link link-hover">GitHub</a>
+        <Link to="https://github.com/alimranmahmud/skillswap" className="link link-hover">GitHub</Link>
       </nav>
       <nav>
         <h6 className="footer-title">Explore</h6>
