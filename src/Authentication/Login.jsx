@@ -38,6 +38,7 @@ const Login = () => {
 
                 const user = result.user;
                 // console.log(user)
+                navigate('/');
 
             }).catch((error) => {
                 const errorCode = error.code;
