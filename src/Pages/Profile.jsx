@@ -34,7 +34,7 @@ const Profile = () => {
 
         <motion.button
           whileHover={{ scale: 1.1 }}
-          className="mt-6 bg-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition"
+          className="mt-6 bg-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-md hover:bg-blue-600 transition"
         >
           Edit Profile
         </motion.button>
