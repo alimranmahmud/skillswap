@@ -20,7 +20,7 @@ const navigate = useNavigate()
         e.preventDefault();
         createUser(email, password)
             .then((result) => {
-                const user = result.user;
+                const user = result.user
                 updateUser({ displayName: name, photoURL: photo })
                     .then(() => {
                         setUser({ ...user, displayName: name, photoURL: photo });
