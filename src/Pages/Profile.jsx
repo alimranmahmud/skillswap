@@ -29,7 +29,7 @@ const Profile = () => {
           whileHover={{ scale: 1.03 }}
         >
           <h3 className="font-semibold text-lg mb-2">Bio</h3>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus explicabo aliquid quod exercitationem laboriosam repellat enim ullam iste magnam praesentium?</p>
+          <p>I love web development; it allows me to design, code, and solve problems creatively to build modern, dynamic websites.</p>
         </motion.div>
 
         <motion.button
